@@ -4,7 +4,7 @@ A **Retrieval-Augmented Generation (RAG) based customizable chatbot** built with
 
 ## 🎬 Watch the Demo
 
-[![Watch the demo](media/thumbnail.png)](https://youtu.be/HbY8R6-jsx8)
+[![Watch the demo](media/thumbnail.png)](https://www.youtube.com/watch?v=HbY8R6-jsx8)
 
 > Click the thumbnail above to watch a quick demo of the project in action.
 
