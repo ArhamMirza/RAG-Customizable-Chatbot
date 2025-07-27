@@ -2,7 +2,12 @@
 
 A **Retrieval-Augmented Generation (RAG) based customizable chatbot** built with Python and Streamlit. This project enables you to create, configure, and interact with AI chatbots using your own documents or web data—perfect for character-driven chatbots, document Q&A, or research assistants.
 
-[![Demo Video](https://img.youtube.com/vi/HbY8R6-jsx8/0.jpg)](https://youtu.be/HbY8R6-jsx8)
+## 🎬 Watch the Demo
+
+[![Watch the demo](media/thumbnail.png)](https://youtu.be/HbY8R6-jsx8)
+
+> Click the thumbnail above to watch a quick demo of the project in action.
+
 
 
 ---
